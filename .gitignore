@@ -1,6 +1,7 @@
-data/
-mlruns/
-models/
 .env
+mlruns/
+mlflow.db
+models/*.pkl
 __pycache__/
 .ipynb_checkpoints/
+.pytest_cache/
